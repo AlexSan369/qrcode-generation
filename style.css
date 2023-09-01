@@ -22,7 +22,7 @@ body {
 }
 
 .container.active {
-    height: 25rem;
+    height: 30rem;
 }
 
 header {
@@ -76,7 +76,7 @@ header p {
     opacity: 0;
     border: 1px solic #ccc;
     padding: 30px 0;
-    margin: 20px 15px;
+    margin: 5px 15px;
     justify-content: center;
     border-radius: 1.2rem;
     transition: .5s;
